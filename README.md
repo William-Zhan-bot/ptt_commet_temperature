@@ -1,0 +1,2 @@
+# ptt_commet_temperature
+以python爬蟲技術與情感分析，計算ptt文章的評論風向
